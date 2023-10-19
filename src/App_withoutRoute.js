@@ -11,6 +11,8 @@ function App() {
         setCategory(() => category);
     }, []);
 
+    const a = [];
+
 
     return (
 
