@@ -12,6 +12,7 @@ function App() {
     }, []);
 
     const a = [];
+    const b = [];
 
 
     return (
